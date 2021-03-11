@@ -1,4 +1,4 @@
-# Popeye
+# [Epitech DevOps] Popeye
 Premier projet du module de DevOps d'Epitech (promo 2024)
 
 # But du projet
