@@ -1,5 +1,5 @@
 # [Epitech DevOps] Popeye
-Premier projet du module de DevOps d'Epitech (promo 2024)
+Premier projet du module DevOps d'Epitech (promo 2024)
 
 # But du projet
 Le but du projet est de faire fonctionner en symbiose un site web comprenant 3 applications (fournies par epitech) via Docker et docker-compose.<br>
